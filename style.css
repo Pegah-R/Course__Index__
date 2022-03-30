@@ -1,0 +1,84 @@
+
+/*h1 {
+  color: white;
+  background-color: purple;
+  border-style: solid;
+  border-color: purple;
+  font-family: serif;
+  text-align: center;
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+
+body {
+  background-color: rgb(204, 205, 255);
+  font-family: serif;
+  font-weight: bold;
+}
+*/
+/*.headingBox {
+  
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.button {
+  background-color: rgb(204, 205, 255); 
+  color: black;
+  font-family: serif;
+  font-weight: bold;
+  border-color: purple;
+  padding: 15px 20px;
+  text-align: center;
+  font-size: 25px;
+  transition-duration: 0.5s;
+}
+
+.button:hover {
+  background-color:purple; 
+  color: white;
+}
+
+
+.square1 {
+/*purple square*/
+/*
+  height: 400px;
+  width: 80px;
+  background-color: rgb(106, 90, 205);
+  position:sticky;
+  left: 300px;
+  top: 0px;
+
+}
+
+.square3 {
+/*blue square
+  height: 400px;
+  width: 80px;
+  background-color: rgb(34, 117, 255);
+  position:absolute;
+  left: 380px;
+  top: 9px;
+
+}
+
+.square2 {
+/*grey square
+  height: 60px;
+  width: 1400px;
+  background-color: #555;
+  position:sticky;
+  left: 0px;
+  top: 10px;
+}
+*/
+.rainbow {
+position:absolute;
+left: 350px;
+top: 0px;
+}	
