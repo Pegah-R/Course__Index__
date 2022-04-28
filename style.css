@@ -1,84 +1,198 @@
 
-/*h1 {
-  color: white;
-  background-color: purple;
-  border-style: solid;
-  border-color: purple;
-  font-family: serif;
-  text-align: center;
-  padding-top: 20px;
-  padding-right: 10px;
-  padding-bottom: 20px;
-  padding-left: 10px;
+.blue {
+	background-image:url("istockphoto-1253590992-170667a.jpg")	
 }
 
-body {
-  background-color: rgb(204, 205, 255);
-  font-family: serif;
-  font-weight: bold;
-}
-*/
-/*.headingBox {
-  
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-}
-
-.button {
-  background-color: rgb(204, 205, 255); 
-  color: black;
-  font-family: serif;
-  font-weight: bold;
-  border-color: purple;
-  padding: 15px 20px;
-  text-align: center;
-  font-size: 25px;
-  transition-duration: 0.5s;
-}
-
-.button:hover {
-  background-color:purple; 
-  color: white;
-}
-
-
-.square1 {
-/*purple square*/
-/*
-  height: 400px;
-  width: 80px;
-  background-color: rgb(106, 90, 205);
-  position:sticky;
-  left: 300px;
-  top: 0px;
-
-}
-
-.square3 {
-/*blue square
-  height: 400px;
-  width: 80px;
-  background-color: rgb(34, 117, 255);
-  position:absolute;
-  left: 380px;
-  top: 9px;
-
-}
-
-.square2 {
-/*grey square
-  height: 60px;
-  width: 1400px;
-  background-color: #555;
-  position:sticky;
-  left: 0px;
-  top: 10px;
-}
-*/
 .rainbow {
-position:absolute;
-left: 350px;
-top: 0px;
+	position:absolute;
+	left: 600px;
+	top: 0px;
 }	
+
+.cloud {
+	position: absolute;
+	top: 600px;
+	left: 430px;
+}
+
+.cloudLong {
+	position: absolute;
+	top: 720px;	
+	left: 0px;
+	margin: auto;
+}
+
+.h1{
+	text-align: center;	
+	
+}
+.margin{
+ 	margin: auto;
+}
+
+.purplepurple{
+	position: absolute;
+	top: 923px;
+	left: 610px;
+}
+.blueblue {
+	position: absolute;
+	top: 923px;
+	left: 689px;
+}
+
+.greengreen{
+	position: absolute;
+	top: 923px;
+	left: 766px;
+}
+.greengreen2 {
+	position: absolute;
+	top: 1853px;
+	left: 768px;
+}
+
+.yellowyellow{
+	position: absolute;
+	top: 923px;
+	left: 846px;
+}
+
+.yellowyellow2{
+	position: absolute;
+	top: 1823px;
+	left: 840px;
+}
+
+.orangeorange{
+	position: absolute;
+	top: 923px;
+	left: 926px;
+}
+
+.orangeorange2 {
+	position: absolute;
+	top: 1823px;
+	left: 920px;
+}
+
+.redred {
+	position: absolute;
+	top: 923px;
+	left: 1005px;
+}
+
+.redred2 {
+	position: absolute;
+	top: 1823px;
+	left: 999px;
+}
+
+.cloud0 {
+	position: absolute;
+	top: 1200px;
+	left: 800px;
+}
+
+.cloud2 {
+	position: absolute;
+	top: 1640px;
+	left: 510px;
+}
+
+.cloud3 {
+	position: absolute;
+	top: 1650px;
+	left: 797px;
+}
+
+.cloud4 {
+	position: absolute;
+	top: 2160px;
+	left: 1170px;
+}
+
+.cloud6{
+	position: absolute;
+	top: 2550px;
+	left: 700px;
+}
+
+@font-face {
+   font-family: quicksand;
+   src: url("Quicksand/OFL.txt");
+}
+
+.lastname{
+	position:absolute;
+	top: 884px;
+	left: 750px;
+	font-family: 'Press Start 2P';
+	font-size: 18px;
+}
+
+.pegahlogo{
+	position: absolute;
+	top: 832px;
+	left: 759px;
+	font-family: "Press Start 2P";
+	font-size: 40px;
+	
+}
+.FinalPoster{
+	position: absolute;
+	margin-top: -2399px;
+	margin-left: 660px;
+	
+}
+
+.smallCloud{
+	position: absolute;
+	margin-top: -2286px;
+	margin-left: 651px;
+}
+
+.CloudAssign2{
+	position: absolute;
+	top: 2100px;
+	left: 870px;
+	
+}
+
+.Assign2 {
+	position: absolute;
+	top: 2158px;
+	left: 1280px;	
+}
+
+a:hover{
+	color: #93A9EC;
+}
+.Paragraph1{
+	color: #000000;
+	position: absolute;
+	top: 2199px;
+	left: 995px;
+	padding: 0px;
+	font-family: quicksand;
+	font-size: 26px;
+	text-align: center;
+}
+
+.Paragraph2{
+	position: absolute;
+	top: 2650px;
+	left: 840px;
+	font-family: quicksand;
+	font-size: 26px;
+	text-align: center;
+}
+
+/*a:hover {
+	background-color: #CDFFF9;
+}
+*/
+@font-face {
+   font-family: quicksand;
+   src: url("Quicksand/OFL.txt");
+}
