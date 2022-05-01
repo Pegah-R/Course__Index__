@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-image:url("redBack1.jpg");
+}
+.topcloud {
+	position: absolute;
+	top: -160px;
+	left: -30px;
+}
+
+.lastname4{
+	position: absolute;
+	top: 50px;
+	left: 714px;
+	font-family: 'Press Start 2P';
+	font-size: 13px;
+}
+.pegahlogo4{
+	position: absolute;
+	top: 15px;
+	left: 730px;
+	font-family: "Press Start 2P";
+	font-size: 25px;
+}
+.lastname4 a:link {text-decoration: none;
+color: #000000;}
+.lastname4 a:visited { text-decoration: none; }
+.lastname4 a:hover { color:#F9D0CE; }
+.lastname4 a:active { text-decoration: none; }
+
+.pegahlogo4 a:link { text-decoration: none; }
+.pegahlogo4 a:visited { text-decoration: none; }
+.pegahlogo4 a:hover { color:#F9D0CE; }
+.pegahlogo4 a:active { text-decoration: none; }
+
+.title {
+	font-family: quicksand;
+	font-weight: 100;
+	font-size: 45px;
+	color:#630001;
+	position: absolute;
+	top: 160px;	
+	left: 200px;
+}
+.titleofDis{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#630001;
+	top: 240px;
+	left: 200px;
+}
+
+.titleofDis2{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#630001;
+	top: 840px;
+	left: 200px;
+}
+
+.titleofDis3{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#630001;
+	top: 1040px;
+	left: 200px;
+}
+
+.titleofDis4{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#630001;
+	top: 1340px;
+	left: 200px;
+}
+
+.reading1{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#630001;
+	top: 1340px;
+	left: 200px;	
+}
+
+.reading2{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#630001;
+	top: 1340px;
+	left: 200px;	
+}

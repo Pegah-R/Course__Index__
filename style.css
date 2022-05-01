@@ -76,6 +76,12 @@
 	left: 920px;
 }
 
+.orangeorange3 {
+	position: absolute;
+	top: 2760px;
+	left: 950px;
+}
+
 .redred {
 	position: absolute;
 	top: 923px;
@@ -87,6 +93,12 @@
 	top: 1823px;
 	left: 999px;
 }
+.redred3{
+	position:absolute;
+	top: 2720px;
+	left: 995px;
+}
+
 
 .cloud0 {
 	position: absolute;
@@ -115,7 +127,7 @@
 .cloud6{
 	position: absolute;
 	top: 2550px;
-	left: 700px;
+	left: 720px;
 }
 
 @font-face {
@@ -165,24 +177,61 @@
 	left: 1280px;	
 }
 
-a:hover{
-	color: #93A9EC;
-}
 .Paragraph1{
 	color:#000000;
 	position: absolute;
-	top: 2199px;
-	left: 995px;
+	top: 2190px;
+	left: 999px;
+	padding:0px;
+	font-family: quicksand;
+	font-size:26px;
+	text-align: center;
+}
+
+.assign1{
+	position: absolute;
+	top: 1280px;
+	left: 950px;
 	padding: 0px;
 	font-family: quicksand;
 	font-size: 26px;
-	text-align: center;
+	text-align: center;	
+}
+
+.assign1 a:link {text-decoration: none; color: #000000;}
+.assign1 a:visited { text-decoration: none; }
+.assign1 a:hover { color:#C6A0F1; }
+.assign1 a:active { text-decoration: none; }
+
+.Paragraph1 a:link {text-decoration: none; color: #000000; }
+.Paragraph1 a:visited { text-decoration: none; }
+.Paragraph1 a:hover { color:#B0FFDF; }
+.Paragraph1 a:active { text-decoration: none; }
+
+.finalPoster a:link {text-decoration: none; color: #000000;}
+.finalPoster a:visited { text-decoration: none; }
+.finalPoster a:hover { color:#8CBBFD; }
+.finalPoster a:active { text-decoration: none; }
+
+.Paragraph2 a:link {text-decoration: none; color: #000000;}
+.Paragraph2 a:visited { text-decoration: none; }
+.Paragraph2 a:hover { color:#FCFF96; }
+.Paragraph2 a:active { text-decoration: none; }
+
+.finalPoster{
+	position: absolute;
+	top: 1790px;
+	left: 680px;
+	padding: 0px;
+	font-family: quicksand;
+	font-size: 28px;
+	text-align: center;	
 }
 
 .Paragraph2{
 	position: absolute;
 	top: 2650px;
-	left: 840px;
+	left: 853px;
 	font-family: quicksand;
 	font-size: 26px;
 	text-align: center;

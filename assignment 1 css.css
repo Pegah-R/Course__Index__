@@ -1,0 +1,376 @@
+@charset "utf-8";
+/* CSS Document */
+.purple1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.purple2 {
+	position: absolute;
+	top: 3760px;
+	left: 0px;
+}
+.purple3 {
+	position: absolute;
+	top: 6750px;
+	left: 0px;
+}
+
+.purple4 {
+	position: absolute;
+	top: 7000px;
+}
+
+.title1 {
+	font-family: quicksand;
+	font-weight: 100;
+	font-size: 45px;
+	color:#290048;
+	position: absolute;
+	top: 200px;	
+	left: 200px;
+}
+
+.topcloud{
+	position: absolute;
+	top: -160px;
+	left: -30px;
+}
+
+.lastname1{
+	color: #000000;
+	position:absolute;
+	top: 60px;
+	left: 710px;
+	font-family: 'Press Start 2P';
+	font-size: 13px;
+}
+
+/*.lastname1:hover {
+	color: #EEDDFF;
+}
+/*.pegahlogo1:hover {
+	color:#EEDDFF;
+}*/
+.pegahlogo1{
+	position: absolute;
+	top: 26px;
+	left: 730px;
+	font-family: "Press Start 2P";
+	font-size: 25px;
+	
+}
+
+.lastname1 a:link {text-decoration: none; color: #000000;}
+.lastname1 a:visited { text-decoration: none; }
+.lastname1 a:hover { color: #EEDDFF; }
+.lastname1 a:active { text-decoration: none; }
+
+.pegahlogo1 a:link { text-decoration: none; color: #000000; }
+.pegahlogo1 a:visited { text-decoration: none; }
+.pegahlogo1 a:hover { color: #EEDDFF; }
+.pegahlogo1 a:active { text-decoration: none; }
+
+
+
+.week1 {
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#551A8B;
+	padding-top: 330px;
+	padding-bottom: 10px;
+	padding-left: 190px;
+}
+
+.week2 {
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#551A8B;
+	top: 3770px;
+	left: 200px;	
+	
+}
+.week2Exp{ 
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 3840px;
+	left: 200px;
+	right: 130px;
+}
+
+.week3 {}
+
+.week4{}
+
+.concept1{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: lighter;
+	font-size: 25px;
+	color:#551A8B;
+	padding-top: 320px;
+	padding-left: 190px;	
+}
+
+.concept2{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: lighter;
+	font-size: 25px;
+	color:#551A8B;
+	padding-top: 1520px;
+	padding-left: 190px;	
+}
+
+.shomalPhoto{
+	position: absolute;
+	padding-left: 193px; 
+	padding-top: 400px;
+}
+.drawingShomal{
+	position: absolute;
+	padding-left: 620px; 
+	padding-top: 420px;	
+}
+.editDrawShomal{
+	position: absolute;
+	padding-left: 990px; 
+	padding-top: 420px;	
+}
+
+.drawingExp{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	padding-top: 680px;
+	padding-left: 190px;
+	padding-right: 30px;
+}
+
+.homeHalfLeft{
+	position: absolute;
+	top: 999px;
+	left: 200px;
+}
+
+.homeHalfRight{
+	position: absolute;
+	top: 999px;
+	left: 500px;
+}
+
+.homeGlass{ 
+	position: absolute;
+	top: 999px;
+	left: 870px;
+}
+
+.roundHomeSeperate{
+	position: absolute;
+	top: 1300px;
+	left: 200px;
+}
+.roundHomeTogether{
+	position:absolute;
+	left: 340px;
+	top: 1300px;
+}
+.shells{
+	position: absolute;
+	top: 1350px;
+	left: 500px;
+}
+
+.anxiety1{
+	position: absolute;
+	top: 1700px;
+	left: 200px;
+}
+
+.anxiety2 {
+	position: absolute;
+	top: 2130px;
+	left: 200px;
+}
+
+.glitch{
+	position: absolute;
+	top: 1900px;
+	left: 940px;
+}
+
+.shapesExp{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 2580px;
+	left: 200px;
+}
+
+.shape1{
+	position: absolute;
+	top: 2650px;
+	left: 200px;	
+}
+.shape2{
+	position: absolute;
+	top: 2650px;
+	left: 490px;	
+}
+
+.shape3{
+	position: absolute;
+	top: 2650px;
+	left: 780px;	
+}
+
+.shape4{
+	position: absolute;
+	top: 2890px;
+	left: 200px;	
+}
+
+.shape5{
+	position: absolute;
+	top: 2890px;
+	left: 780px;	
+}
+.shape6{
+	position: absolute;
+	top: 2800px;
+	left: 490px;	
+}
+
+.shape7{
+	position: absolute;
+	top: 3130px;
+	left: 490px;
+}
+
+.shape8{
+	position: absolute;
+	top: 3130px;
+	left: 200px;
+}
+
+.blobs{
+	position: absolute;
+	top: 3460px;
+	left: 200px;	
+}
+
+.blobExp{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 3400px;
+	left: 200px;	
+}
+
+.shape9{
+	position: absolute;
+	top: 4060px;
+	left: 200px;
+}
+
+.shape10{
+	position: absolute;
+	top: 4120px;
+	left: 480px;
+}
+
+.shape11{
+	position: absolute;
+	top: 4180px;
+	left: 730px;
+}
+
+.shape12{
+	position: absolute;
+	top: 4290px;
+	left: 200px;
+}
+
+.stage22{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 3970px;
+	left: 200px;
+	right: 130px;
+}
+
+.stage222{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 4600px;
+	left: 200px;
+	right: 200px;
+}
+
+.stage2222{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 5750px;
+	left: 200px;
+	right: 200px;
+}
+
+.overlap1{
+	position: absolute;
+	top: 4990px;
+	left: 200px;		
+}
+.overlap2{
+	position: absolute;
+	top: 4990px;
+	left: 530px;		
+}
+
+.overlap3{
+	position: absolute;
+	top: 5320px;
+	left: 200px;		
+}
+
+.overlap4{
+	position: absolute;
+	top: 5320px;
+	left: 540px;		
+}
+
+.experiment2{
+	position: absolute;
+	top: 6140px;
+	left: 200px;			
+}
+
+.experiment21{
+	
+}
+
+.never{
+	
+}
