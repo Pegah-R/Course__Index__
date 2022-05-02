@@ -13,13 +13,14 @@
 }
 .purple3 {
 	position: absolute;
-	top: 6750px;
+	top: 7300px;
 	left: 0px;
 }
 
 .purple4 {
 	position: absolute;
-	top: 7000px;
+	top: 9360px;
+	left: 0px;
 }
 
 .title1 {
@@ -28,7 +29,7 @@
 	font-size: 45px;
 	color:#290048;
 	position: absolute;
-	top: 200px;	
+	top: 160px;	
 	left: 200px;
 }
 
@@ -47,12 +48,6 @@
 	font-size: 13px;
 }
 
-/*.lastname1:hover {
-	color: #EEDDFF;
-}
-/*.pegahlogo1:hover {
-	color:#EEDDFF;
-}*/
 .pegahlogo1{
 	position: absolute;
 	top: 26px;
@@ -80,9 +75,8 @@
 	font-weight: normal;
 	font-size: 30px;
 	color:#551A8B;
-	padding-top: 330px;
-	padding-bottom: 10px;
-	padding-left: 190px;
+	top: 450px;
+	left: 200px;
 }
 
 .week2 {
@@ -106,9 +100,26 @@
 	right: 130px;
 }
 
-.week3 {}
+.week3 {
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#551A8B;
+	top: 7320px;
+	left: 200px;	
+	
+}
 
-.week4{}
+.week4{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#551A8B;
+	top: 9370px;
+	left: 200px;
+}
 
 .concept1{
 	position:absolute;
@@ -116,8 +127,8 @@
 	font-weight: lighter;
 	font-size: 25px;
 	color:#551A8B;
-	padding-top: 320px;
-	padding-left: 190px;	
+	top: 520px;
+	left: 200px;	
 }
 
 .concept2{
@@ -126,24 +137,24 @@
 	font-weight: lighter;
 	font-size: 25px;
 	color:#551A8B;
-	padding-top: 1520px;
-	padding-left: 190px;	
+	top: 1590px;
+	left: 200px;	
 }
 
 .shomalPhoto{
 	position: absolute;
-	padding-left: 193px; 
-	padding-top: 400px;
+	left: 200px; 
+	top: 599px;
 }
 .drawingShomal{
 	position: absolute;
-	padding-left: 620px; 
-	padding-top: 420px;	
+	left: 615px; 
+	top: 630px;	
 }
 .editDrawShomal{
 	position: absolute;
-	padding-left: 990px; 
-	padding-top: 420px;	
+	left: 990px; 
+	top: 630px;	
 }
 
 .drawingExp{
@@ -152,9 +163,9 @@
 	font-weight: normal;
 	font-size: 18px;
 	color:#551A8B;
-	padding-top: 680px;
-	padding-left: 190px;
-	padding-right: 30px;
+	top: 881px;
+	left: 200px;
+	right: 200px;
 }
 
 .homeHalfLeft{
@@ -215,7 +226,7 @@
 	font-weight: normal;
 	font-size: 18px;
 	color:#551A8B;
-	top: 2580px;
+	top: 2560px;
 	left: 200px;
 }
 
@@ -277,7 +288,7 @@
 	font-weight: normal;
 	font-size: 18px;
 	color:#551A8B;
-	top: 3400px;
+	top: 3390px;
 	left: 200px;	
 }
 
@@ -311,9 +322,9 @@
 	font-weight: normal;
 	font-size: 18px;
 	color:#551A8B;
-	top: 3970px;
+	top: 3980px;
 	left: 200px;
-	right: 130px;
+	right: 200px;
 }
 
 .stage222{
@@ -322,7 +333,7 @@
 	font-weight: normal;
 	font-size: 18px;
 	color:#551A8B;
-	top: 4600px;
+	top: 4640px;
 	left: 200px;
 	right: 200px;
 }
@@ -333,7 +344,7 @@
 	font-weight: normal;
 	font-size: 18px;
 	color:#551A8B;
-	top: 5750px;
+	top: 5780px;
 	left: 200px;
 	right: 200px;
 }
@@ -368,9 +379,143 @@
 }
 
 .experiment21{
-	
+	position: absolute;
+	top: 6140px;
+	left: 700px;	
 }
 
 .never{
+	position: absolute;
+	top: 6760px;
+	left: 200px;	
+}
+
+.version1{
+	position: absolute;
+	top: 7560px;
+	left: 200px;		
+}
+
+.version2{
+	position: absolute;
+	top: 7560px;
+	left: 670px;
+}
+
+.version3{
+	position: absolute;
+	top: 8140px;
+	left: 200px;
+}
+
+.version4{
+	position: absolute;
+	top: 8140px;
+	left: 670px;
+}
+
+.version5{
+	position: absolute;
+	top: 8697px;
+	left: 200px;
+}
+
+.version6{
+	position: absolute;
+	top: 8697px;
+	left: 670px;
+}
+
+.week3Exp{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 7399px;
+	left: 200px;
+	right: 200px;
+}
+
+.purpleExp{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 9240px;
+	left: 200px;
+	right: 200px;
+}
+
+.week4Exp{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 9435px;
+	left: 200px;
+	right: 200px;
+}
+
+.final1Exp{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#551A8B;
+	top: 10150px;
+	left: 200px;
+	right: 200px;	
+}
+
+.finalss{
+	position: absolute;
+	top: 9580px;
+	left: 200px;
+}
+
+.final1{
+	position: absolute;
+	top: 10300px;
+	left: 200px;
+}
+
+.finalfinal{
+	position: absolute;
+	top: 11350px;
+	left: 200px;	
+}
+
+.finalposter0{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#551A8B;
+	top: 11180px;
+	left: 200px;
 	
+}
+
+.linktoFinal{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 19px;
+	color:#551A8B;
+	top: 11260px;
+	left: 200px;	
+}
+
+.AssignDis{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 19px;
+	color:#551A8B;
+	top: 270px;
+	left: 200px;
+	right: 200px;
 }

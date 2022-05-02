@@ -1,35 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
-.image{
-	position: absolute;
-	display: block;
-	margin-left:auto;
-	margin-top: 240px;
-}
+
 body {
-	background-image:url("blueAssign11.jpg");
+	background-image:url("orangeBack3.jpg");
 }
-
-.text{
-	position: absolute;
-	font-family:quicksand;
-	font-weight: normal;
-	font-size: 25px;
-	color:#002847;
-	top: 1580px;
-	left: 10px;
-}
-
-.text2{
-	position: absolute;
-	font-family:quicksand;
-	font-weight: normal;
-	font-size: 20px;
-	color:#002847;
-	top: 1630px;
-	left: 10px;
-}
-
 .topcloud {
 	position: absolute;
 	top: -160px;
@@ -51,14 +25,39 @@ body {
 	font-family: "Press Start 2P";
 	font-size: 25px;
 }
-
 .lastname2 a:link {text-decoration: none;
 color: #000000;}
 .lastname2 a:visited { text-decoration: none; }
-.lastname2 a:hover { color:#D6EDFF; }
+.lastname2 a:hover { color:#FFD5A0; }
 .lastname2 a:active { text-decoration: none; }
 
 .pegahlogo2 a:link { text-decoration: none; }
 .pegahlogo2 a:visited { text-decoration: none; }
-.pegahlogo2 a:hover { color:#D6EDFF; }
+.pegahlogo2 a:hover { color:#FFD5A0; }
 .pegahlogo2 a:active { text-decoration: none; }
+
+.poster{
+	position:absolute;
+	top: 250px;
+	left: 10px;
+}
+
+.text{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 25px;
+	color:#393300;
+	top: 1740px;
+	left: 10px;
+}
+
+.text2{
+	position: absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 20px;
+	color:#393300;
+	top: 1790px;
+	left: 10px;
+}

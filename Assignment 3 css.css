@@ -24,13 +24,12 @@ body {
 	font-family: "Press Start 2P";
 	font-size: 25px;
 }
-.lastname2 a:link {text-decoration: none;
-color: #000000;}
+.lastname2 a:link {text-decoration: none; color: #000000;}
 .lastname2 a:visited { text-decoration: none; }
 .lastname2 a:hover { color:#FEFECC; }
 .lastname2 a:active { text-decoration: none; }
 
-.pegahlogo2 a:link { text-decoration: none; }
+.pegahlogo2 a:link { text-decoration: none; color: #000000 }
 .pegahlogo2 a:visited { text-decoration: none; }
 .pegahlogo2 a:hover { color:#FEFECC; }
 .pegahlogo2 a:active { text-decoration: none; }
@@ -43,4 +42,273 @@ color: #000000;}
 	position: absolute;
 	top: 160px;	
 	left: 200px;
+}
+
+.dataCollection{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#393300;
+	top: 430px;
+	left: 200px;
+}
+
+.dataCollecExp {
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#393300;
+	top: 500px;
+	left: 200px;
+	right: 200px;
+}
+
+.chosic1{
+	position:absolute;
+	top: 708px;
+	left: 200px;
+}
+
+.chosic2{
+	position:absolute;
+	top: 708px;
+	left: 650px;
+}	
+
+.chosic3{
+	position:absolute;
+	top: 708px;
+	left: 1100px;	
+}
+
+.chosic4{
+	position:absolute;
+	top: 700px;
+	left: 200px;	
+}
+
+.chosic5{
+	position:absolute;
+	top: 700px;
+	left: 620px;	
+}
+
+.chosic6{
+	position:absolute;
+	top: 700px;
+	left: 990px;	
+}
+
+.obscurLink{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#393300;
+	top: 1000px;
+	left: 200px;	
+}
+
+.obscur1{
+	position:absolute;
+	top: 1080px;
+	left: 200px;
+}
+
+.obscur2{
+	position:absolute;
+	top: 1080px;
+	left: 640px;
+}
+
+.obscur3{
+	position:absolute;
+	top: 1390px;
+	left: 640px;
+}
+
+.obscur4{
+	position:absolute;
+	top: 1690px;
+	left: 640px;
+}
+
+.inspoExp{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#393300;
+	top: 2130px;
+	left: 200px;
+	right: 200px;
+}
+
+.inspiration{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#393300;
+	top: 2070px;
+	left: 200px;
+}	
+
+.Sketches{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#393300;
+	top: 2200px;
+	left: 200px;
+}
+
+.sketch1{
+	position:absolute;
+	top: 2289px;
+	left: 200px;	
+}
+
+.sketch2{
+	position:absolute;
+	top: 2610px;
+	left: 200px;
+}
+
+.sketch3{
+	position:absolute;
+	top: 2289px;
+	left: 590px;
+}
+
+.sketch4{
+	position:absolute;
+	top: 2289px;
+	left: 1010px;
+}
+
+.fonts{
+	position:absolute;
+	top: 3100px;
+	left: 200px;
+}
+
+.chart1{
+	position:absolute;
+	top: 3150px;
+	left: 580px;
+}
+
+.chart2{
+	position:absolute;
+	top: 3480px;
+	left: 597px;
+}
+
+.PosterExp{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 19px;
+	color:#393300;
+	top: 3830px;
+	left: 200px;
+}
+
+.version1{
+	position:absolute;
+	top: 3920px;
+	left: 200px;	
+}
+
+.version2{
+	position:absolute;
+	top: 3900px;
+	left: 650px;	
+}
+
+.version3{
+	position:absolute;
+	top: 4630px;
+	left: 200px;	
+}
+
+.version4{
+	position:absolute;
+	top: 4630px;
+	left: 650px;	
+}
+
+.version5{
+	position:absolute;
+	top: 5350px;
+	left: 200px;	
+}
+
+.version6{
+	position:absolute;
+	top: 5350px;
+	left: 650px;	
+}
+
+.finalVersion{
+	position:absolute;
+	top: 6200px;
+	left: 200px;
+}
+
+.Prototype{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#393300;
+	top: 2880px;
+	left: 200px; 
+}
+
+.fontExp{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 18px;
+	color:#393300;
+	top: 2950px;
+	left: 200px;
+	right: 200px;
+}
+
+.finalPoster{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 30px;
+	color:#393300;
+	top: 6050px;
+	left: 200px;
+	right: 200px;
+}
+
+.finalLink{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 19px;
+	color:#393300;
+	top: 6120px;
+	left: 200px;	
+}
+
+.assignExp1{
+	position:absolute;
+	font-family:quicksand;
+	font-weight: normal;
+	font-size: 19px;
+	color:#393300;
+	top: 260px;
+	left: 200px;
+	right: 200px;
 }
